@@ -1,4 +1,4 @@
-# mancalabot
+# Mancala Bot
 This is a dump for all my mancala bot code
 
 It's meant to look at all possible moves and return the best one. Right now it can only play greedy (depth = 0).
